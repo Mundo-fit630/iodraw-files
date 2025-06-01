@@ -99,7 +99,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NiTLs9-R_kS9Ol3MQNH3-121" target="NiTLs9-R_kS9Ol3MQNH3-144">
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=block;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NiTLs9-R_kS9Ol3MQNH3-121" target="NiTLs9-R_kS9Ol3MQNH3-144">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-180" value="1..*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-179">
@@ -200,7 +200,7 @@
           <mxGeometry x="870" y="200" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-149" value="秋千" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="600" width="140" height="52" as="geometry" />
+          <mxGeometry x="640" y="550" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-150" value="- 承载人数：int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="NiTLs9-R_kS9Ol3MQNH3-149">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
