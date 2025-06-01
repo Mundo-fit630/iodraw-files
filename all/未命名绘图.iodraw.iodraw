@@ -7,6 +7,16 @@
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NiTLs9-R_kS9Ol3MQNH3-109" target="NiTLs9-R_kS9Ol3MQNH3-113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-151" value="管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-115">
+          <mxGeometry x="0.0585" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-152" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-115">
+          <mxGeometry x="0.7979" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-109" value="学校" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="320" width="140" height="52" as="geometry" />
         </mxCell>
