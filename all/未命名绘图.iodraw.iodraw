@@ -53,13 +53,18 @@
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NiTLs9-R_kS9Ol3MQNH3-195" target="NiTLs9-R_kS9Ol3MQNH3-200">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-233" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-231">
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-233" value="控制" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-231">
           <mxGeometry x="-0.0173" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NiTLs9-R_kS9Ol3MQNH3-195" target="NiTLs9-R_kS9Ol3MQNH3-188">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-234" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-232">
+          <mxGeometry x="0.1198" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-195" value="刹车" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="800" y="400" width="140" height="52" as="geometry" />
