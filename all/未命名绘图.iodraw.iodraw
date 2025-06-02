@@ -33,7 +33,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-438" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-422">
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-438" value="马达运转" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-422">
           <mxGeometry x="-0.4022" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -65,6 +65,11 @@
               <mxPoint x="340" y="570" />
               <mxPoint x="340" y="220" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-439" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-431">
+          <mxGeometry x="-0.0047" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-429" value="Running" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
