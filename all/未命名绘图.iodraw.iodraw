@@ -197,8 +197,8 @@
         </mxCell>
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-506" value="" style="endArrow=none;endFill=0;endSize=12;html=1;rounded=0;startArrow=open;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="210" y="900" as="sourcePoint" />
-            <mxPoint x="450" y="900" as="targetPoint" />
+            <mxPoint x="210" y="910" as="sourcePoint" />
+            <mxPoint x="450" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-507" value="选择支付方式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-506">
@@ -208,8 +208,8 @@
         </mxCell>
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-508" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="210" y="930" as="sourcePoint" />
-            <mxPoint x="450" y="930" as="targetPoint" />
+            <mxPoint x="210" y="960" as="sourcePoint" />
+            <mxPoint x="450" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-509" value="支付价格" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-508">
