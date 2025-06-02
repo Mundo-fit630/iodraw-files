@@ -62,6 +62,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-377" value="插销啮合，发出劈啪声" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-376">
+          <mxGeometry x="0.384" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
