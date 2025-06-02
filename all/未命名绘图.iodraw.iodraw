@@ -86,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-381" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="500" width="30" height="30" as="geometry" />
+          <mxGeometry x="800" y="270" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
