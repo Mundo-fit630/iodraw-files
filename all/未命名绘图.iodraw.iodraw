@@ -190,7 +190,7 @@
             <mxPoint x="510" y="124.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-504" value="库存无" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-503">
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-504" value="更新库存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-503">
           <mxGeometry x="-0.0261" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
