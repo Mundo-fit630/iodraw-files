@@ -107,6 +107,9 @@
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-571" value="里程记为1000公里" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="339" y="430" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-573" value="里程记为实际里程" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
