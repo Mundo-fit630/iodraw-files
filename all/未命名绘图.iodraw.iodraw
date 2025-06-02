@@ -4,60 +4,6 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-407" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="160" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-408" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="NiTLs9-R_kS9Ol3MQNH3-407" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="695" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-409" value="空闲" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="635" y="250" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-410" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="NiTLs9-R_kS9Ol3MQNH3-409" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="695" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-411" value="检测到响铃" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-410">
-          <mxGeometry x="-0.2728" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-412" value="应答" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="635" y="350" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-413" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="NiTLs9-R_kS9Ol3MQNH3-412" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="695" y="450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-414" value="播放预先录制的应答" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-413">
-          <mxGeometry x="-0.1406" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-415" value="录音" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="635" y="450" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-416" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="NiTLs9-R_kS9Ol3MQNH3-415" parent="WIyWlLk6GJQsqaUBKTNV-1" target="NiTLs9-R_kS9Ol3MQNH3-409">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="695" y="580" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="980" y="470" />
-              <mxPoint x="980" y="270" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-417" value="播放完毕，呼叫端挂断" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-416">
-          <mxGeometry x="-0.3389" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-418" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="390" width="30" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
