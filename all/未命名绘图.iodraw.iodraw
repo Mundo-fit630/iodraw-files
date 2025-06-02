@@ -26,7 +26,7 @@
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-553" value="判断卡类型" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="250" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-554" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="NiTLs9-R_kS9Ol3MQNH3-553" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-554" value="红卡" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="NiTLs9-R_kS9Ol3MQNH3-553" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="540" y="270" as="targetPoint" />
           </mxGeometry>
@@ -38,6 +38,9 @@
         </mxCell>
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-556" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-558" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="248" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
