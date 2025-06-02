@@ -85,10 +85,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-468" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="NiTLs9-R_kS9Ol3MQNH3-459">
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-468" value="" style="endArrow=none;endFill=0;endSize=12;html=1;rounded=0;startArrow=open;startFill=0;" edge="1" parent="NiTLs9-R_kS9Ol3MQNH3-459">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="40" y="90" as="sourcePoint" />
-            <mxPoint x="280" y="90" as="targetPoint" />
+            <mxPoint x="50" y="80" as="sourcePoint" />
+            <mxPoint x="290" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-469" value="选择书籍" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-468">
