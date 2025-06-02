@@ -28,7 +28,7 @@
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-394" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#ff0000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NiTLs9-R_kS9Ol3MQNH3-389" target="NiTLs9-R_kS9Ol3MQNH3-393">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-395" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-394">
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-395" value="按下B" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-394">
           <mxGeometry x="0.0125" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
