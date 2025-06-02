@@ -89,6 +89,11 @@
             <mxPoint x="510" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-465" value="库存有" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-463">
+          <mxGeometry x="-0.0261" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
