@@ -93,7 +93,7 @@
         </mxCell>
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-569" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="NiTLs9-R_kS9Ol3MQNH3-568" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="540" y="370" as="targetPoint" />
+            <mxPoint x="490" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-570" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="NiTLs9-R_kS9Ol3MQNH3-568" parent="WIyWlLk6GJQsqaUBKTNV-1">
