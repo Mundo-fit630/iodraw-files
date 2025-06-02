@@ -197,8 +197,8 @@
         </mxCell>
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-506" value="" style="endArrow=none;endFill=0;endSize=12;html=1;rounded=0;startArrow=open;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="220" y="570" as="sourcePoint" />
-            <mxPoint x="460" y="570" as="targetPoint" />
+            <mxPoint x="210" y="900" as="sourcePoint" />
+            <mxPoint x="450" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-507" value="告知无货" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-506">
