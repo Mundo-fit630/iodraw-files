@@ -140,13 +140,13 @@
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-481" value="[else]" style="line;strokeWidth=1;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;html=1;whiteSpace=wrap;" vertex="1" parent="NiTLs9-R_kS9Ol3MQNH3-479">
           <mxGeometry y="125" width="600" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-492" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-492" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="NiTLs9-R_kS9Ol3MQNH3-479">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="220" y="280" as="sourcePoint" />
-            <mxPoint x="460" y="280" as="targetPoint" />
+            <mxPoint x="40" y="70" as="sourcePoint" />
+            <mxPoint x="280" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-493" value="选择书籍" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-492">
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-493" value="确认购买" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-492">
           <mxGeometry x="-0.1333" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
