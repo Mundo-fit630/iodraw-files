@@ -49,7 +49,7 @@
             <mxPoint x="555" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-437" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-426">
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-437" value="On不再被断言" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-426">
           <mxGeometry x="-0.2728" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
