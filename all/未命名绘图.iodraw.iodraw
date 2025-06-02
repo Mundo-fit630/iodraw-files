@@ -10,6 +10,12 @@
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-421" value="给线圈run加电" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="NiTLs9-R_kS9Ol3MQNH3-420">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-428" value="给线圈run加电" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="NiTLs9-R_kS9Ol3MQNH3-420">
+          <mxGeometry y="60" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-427" value="给线圈run加电" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="NiTLs9-R_kS9Ol3MQNH3-420">
+          <mxGeometry y="90" width="160" height="-30" as="geometry" />
+        </mxCell>
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-422" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="NiTLs9-R_kS9Ol3MQNH3-420" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="550" as="targetPoint" />
