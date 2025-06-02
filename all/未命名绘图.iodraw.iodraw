@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-292" value="电机" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="190" width="140" height="78" as="geometry" />
+          <mxGeometry x="600" y="242" width="140" height="78" as="geometry" />
         </mxCell>
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-293" value="- 功率：float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="NiTLs9-R_kS9Ol3MQNH3-292">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
