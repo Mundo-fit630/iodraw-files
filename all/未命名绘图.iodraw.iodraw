@@ -195,6 +195,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-518" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="NiTLs9-R_kS9Ol3MQNH3-479">
+          <mxGeometry x="360" y="85" width="10" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-506" value="" style="endArrow=none;endFill=0;endSize=12;html=1;rounded=0;startArrow=open;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="210" y="910" as="sourcePoint" />
@@ -230,6 +233,12 @@
         </mxCell>
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-516" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="200" width="20" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-517" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="NiTLs9-R_kS9Ol3MQNH3-518">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="420" y="780" as="sourcePoint" />
+            <mxPoint x="480" y="780" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
