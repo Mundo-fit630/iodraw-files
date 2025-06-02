@@ -15,7 +15,7 @@
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-361" value="插销锁住" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="635" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-362" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="NiTLs9-R_kS9Ol3MQNH3-361" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-362" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="NiTLs9-R_kS9Ol3MQNH3-361" parent="WIyWlLk6GJQsqaUBKTNV-1" target="NiTLs9-R_kS9Ol3MQNH3-370">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="695" y="470" as="targetPoint" />
           </mxGeometry>
@@ -30,10 +30,9 @@
         </mxCell>
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-371" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="NiTLs9-R_kS9Ol3MQNH3-370" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="610" as="targetPoint" />
+            <mxPoint x="695" y="650" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="695" y="550" />
-              <mxPoint x="741" y="550" />
+              <mxPoint x="695" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
