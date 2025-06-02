@@ -33,6 +33,11 @@
             <mxPoint x="695" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-414" value="播放预先录制的应答" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-413">
+          <mxGeometry x="-0.1406" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
