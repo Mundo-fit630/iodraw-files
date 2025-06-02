@@ -12,8 +12,11 @@
         <mxCell id="NiTLs9-R_kS9Ol3MQNH3-444" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="100" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-447" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-447" value="店员" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="105" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-448" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="380" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
