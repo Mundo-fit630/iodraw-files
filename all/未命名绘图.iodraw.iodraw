@@ -201,7 +201,7 @@
             <mxPoint x="450" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-507" value="告知无货" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-506">
+        <mxCell id="NiTLs9-R_kS9Ol3MQNH3-507" value="选择支付方式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiTLs9-R_kS9Ol3MQNH3-506">
           <mxGeometry x="-0.1333" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
