@@ -49,7 +49,14 @@
           <mxGeometry x="330" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DyTV3UNv7Nu-Smh3x_u1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DyTV3UNv7Nu-Smh3x_u1-15" target="DyTV3UNv7Nu-Smh3x_u1-7">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="860" />
+              <mxPoint x="260" y="635" />
+              <mxPoint x="310" y="635" />
+              <mxPoint x="310" y="400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="DyTV3UNv7Nu-Smh3x_u1-15" value="延时1000ms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="830" width="120" height="60" as="geometry" />
