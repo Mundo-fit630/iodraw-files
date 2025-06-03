@@ -16,7 +16,7 @@
         <mxCell id="DyTV3UNv7Nu-Smh3x_u1-3" value="配置GPIOE Pin5的输出方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DyTV3UNv7Nu-Smh3x_u1-5" value="配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="DyTV3UNv7Nu-Smh3x_u1-5" value="初始设置灯灭" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
