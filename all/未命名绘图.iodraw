@@ -42,8 +42,14 @@
         <mxCell id="DyTV3UNv7Nu-Smh3x_u1-11" value="延时1000ms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DyTV3UNv7Nu-Smh3x_u1-13" value="灯亮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="630" width="120" height="60" as="geometry" />
+        <mxCell id="DyTV3UNv7Nu-Smh3x_u1-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DyTV3UNv7Nu-Smh3x_u1-13" target="DyTV3UNv7Nu-Smh3x_u1-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DyTV3UNv7Nu-Smh3x_u1-13" value="灯灭" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DyTV3UNv7Nu-Smh3x_u1-15" value="灯灭" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
