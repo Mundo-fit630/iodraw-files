@@ -164,7 +164,7 @@
             <mxPoint x="560" y="805" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rbsGqzr5kljnrEFS1cJ_-55" value="系统自动核算成本" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rbsGqzr5kljnrEFS1cJ_-55" value="系统在装配时提供必要的提示" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="775" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rbsGqzr5kljnrEFS1cJ_-56" value="系统交互" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
