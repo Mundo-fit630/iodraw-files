@@ -61,7 +61,7 @@
             <mxPoint x="590" y="340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rbsGqzr5kljnrEFS1cJ_-17" value="系统提示正确参数" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#1e00ff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rbsGqzr5kljnrEFS1cJ_-17" value="系统提供多个概念选择，并提供最为合适的概念设计" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#1e00ff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rbsGqzr5kljnrEFS1cJ_-18" value="系统交互" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
