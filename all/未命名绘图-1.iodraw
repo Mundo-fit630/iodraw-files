@@ -27,8 +27,8 @@
         <mxCell id="rbsGqzr5kljnrEFS1cJ_-6" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="730" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rbsGqzr5kljnrEFS1cJ_-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="655" y="58" width="50" height="30" as="geometry" />
+        <mxCell id="rbsGqzr5kljnrEFS1cJ_-8" value="系统交互" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="60" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
