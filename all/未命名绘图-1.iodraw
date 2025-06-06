@@ -36,11 +36,22 @@
         <mxCell id="rbsGqzr5kljnrEFS1cJ_-8" value="系统交互" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="70" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rbsGqzr5kljnrEFS1cJ_-9" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rbsGqzr5kljnrEFS1cJ_-9" value="用户查阅资料库" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rbsGqzr5kljnrEFS1cJ_-11" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbsGqzr5kljnrEFS1cJ_-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="rbsGqzr5kljnrEFS1cJ_-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rbsGqzr5kljnrEFS1cJ_-14" value="系统提供客户的基本要求" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbsGqzr5kljnrEFS1cJ_-15" value="系统交互" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="80" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
