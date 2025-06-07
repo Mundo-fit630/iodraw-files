@@ -27,7 +27,7 @@
         <mxCell id="p6XBmQJwhoI61cydHGHe-14" value="key0是否按下" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="357" y="340" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="p6XBmQJwhoI61cydHGHe-15" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="p6XBmQJwhoI61cydHGHe-14" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="p6XBmQJwhoI61cydHGHe-15" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="p6XBmQJwhoI61cydHGHe-14" parent="WIyWlLk6GJQsqaUBKTNV-1" target="p6XBmQJwhoI61cydHGHe-23">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="537" y="360" as="targetPoint" />
           </mxGeometry>
@@ -46,7 +46,7 @@
         <mxCell id="p6XBmQJwhoI61cydHGHe-18" value="key0是否按下" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="357" y="545" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="p6XBmQJwhoI61cydHGHe-19" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="p6XBmQJwhoI61cydHGHe-18" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="p6XBmQJwhoI61cydHGHe-19" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="p6XBmQJwhoI61cydHGHe-18" parent="WIyWlLk6GJQsqaUBKTNV-1" target="p6XBmQJwhoI61cydHGHe-23">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="550" y="555" as="targetPoint" />
           </mxGeometry>
@@ -59,7 +59,7 @@
         <mxCell id="p6XBmQJwhoI61cydHGHe-22" value="点亮LED0，LED1" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="342" y="630" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p6XBmQJwhoI61cydHGHe-23" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="p6XBmQJwhoI61cydHGHe-23" value="key1是否按下" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="445" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6XBmQJwhoI61cydHGHe-24" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="p6XBmQJwhoI61cydHGHe-23" parent="WIyWlLk6GJQsqaUBKTNV-1">
