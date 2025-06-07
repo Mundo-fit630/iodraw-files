@@ -81,7 +81,7 @@
           <mxGeometry x="434" y="358" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6XBmQJwhoI61cydHGHe-92" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="434" y="408" width="80" height="40" as="geometry" />
+          <mxGeometry x="434" y="398" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6XBmQJwhoI61cydHGHe-93" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="p6XBmQJwhoI61cydHGHe-92" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1" relative="1" as="geometry">
@@ -91,7 +91,14 @@
         <mxCell id="p6XBmQJwhoI61cydHGHe-94" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="p6XBmQJwhoI61cydHGHe-92" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="480" y="508" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="474" y="473" />
+              <mxPoint x="481" y="473" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="p6XBmQJwhoI61cydHGHe-96" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="434" y="518" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
