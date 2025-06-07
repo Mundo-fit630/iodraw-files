@@ -69,8 +69,14 @@
         <mxCell id="p6XBmQJwhoI61cydHGHe-61" value="延时5s" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="299" y="600" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="p6XBmQJwhoI61cydHGHe-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p6XBmQJwhoI61cydHGHe-63" target="p6XBmQJwhoI61cydHGHe-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="p6XBmQJwhoI61cydHGHe-63" value="LED0熄灭" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="299" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p6XBmQJwhoI61cydHGHe-65" value="清除中断" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="299" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
