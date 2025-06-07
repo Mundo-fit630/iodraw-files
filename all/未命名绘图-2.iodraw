@@ -10,7 +10,7 @@
         <mxCell id="p6XBmQJwhoI61cydHGHe-0" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="137" y="170" width="86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p6XBmQJwhoI61cydHGHe-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p6XBmQJwhoI61cydHGHe-1">
+        <mxCell id="p6XBmQJwhoI61cydHGHe-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p6XBmQJwhoI61cydHGHe-1" target="p6XBmQJwhoI61cydHGHe-88">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="360" as="targetPoint" />
           </mxGeometry>
