@@ -10,8 +10,14 @@
         <mxCell id="p6XBmQJwhoI61cydHGHe-0" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="40" width="86" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="p6XBmQJwhoI61cydHGHe-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p6XBmQJwhoI61cydHGHe-1" target="p6XBmQJwhoI61cydHGHe-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="p6XBmQJwhoI61cydHGHe-1" value="初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="337" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p6XBmQJwhoI61cydHGHe-3" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="357" y="240" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
