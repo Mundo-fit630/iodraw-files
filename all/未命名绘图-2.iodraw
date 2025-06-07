@@ -119,6 +119,10 @@
         <mxCell id="p6XBmQJwhoI61cydHGHe-41" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="p6XBmQJwhoI61cydHGHe-40" parent="WIyWlLk6GJQsqaUBKTNV-1" target="p6XBmQJwhoI61cydHGHe-3">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="710" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="800" />
+              <mxPoint x="760" y="370" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="p6XBmQJwhoI61cydHGHe-42" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="p6XBmQJwhoI61cydHGHe-40" parent="WIyWlLk6GJQsqaUBKTNV-1" target="p6XBmQJwhoI61cydHGHe-44">
