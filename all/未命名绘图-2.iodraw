@@ -73,7 +73,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p6XBmQJwhoI61cydHGHe-26" value="延时" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="348" y="680" width="110" height="50" as="geometry" />
+          <mxGeometry x="348" y="620" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p6XBmQJwhoI61cydHGHe-27" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="363" y="720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p6XBmQJwhoI61cydHGHe-28" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="p6XBmQJwhoI61cydHGHe-27" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="543" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p6XBmQJwhoI61cydHGHe-29" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="p6XBmQJwhoI61cydHGHe-27" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="403" y="820" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
