@@ -91,7 +91,7 @@
             <mxPoint x="403" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p6XBmQJwhoI61cydHGHe-31" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="p6XBmQJwhoI61cydHGHe-31" value="熄灭LED0，LED1" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="348" y="780" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
