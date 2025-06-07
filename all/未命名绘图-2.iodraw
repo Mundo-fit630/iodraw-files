@@ -34,7 +34,7 @@
         <mxCell id="p6XBmQJwhoI61cydHGHe-7" value="延时0.5s" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="337" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p6XBmQJwhoI61cydHGHe-9" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="p6XBmQJwhoI61cydHGHe-9" value="LED1亮，LED0灭" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="337" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
