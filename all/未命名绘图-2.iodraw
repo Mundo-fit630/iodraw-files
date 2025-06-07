@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p6XBmQJwhoI61cydHGHe-0" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="137" y="170" width="86" height="30" as="geometry" />
+          <mxGeometry x="137" y="150" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6XBmQJwhoI61cydHGHe-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p6XBmQJwhoI61cydHGHe-1" target="p6XBmQJwhoI61cydHGHe-3">
           <mxGeometry relative="1" as="geometry" />
@@ -99,7 +99,7 @@
         <mxCell id="p6XBmQJwhoI61cydHGHe-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p6XBmQJwhoI61cydHGHe-74" target="p6XBmQJwhoI61cydHGHe-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p6XBmQJwhoI61cydHGHe-74" value="LED0熄灭" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="p6XBmQJwhoI61cydHGHe-74" value="蜂鸣器不响" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p6XBmQJwhoI61cydHGHe-75" value="清除中断" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
