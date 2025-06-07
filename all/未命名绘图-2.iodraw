@@ -22,8 +22,8 @@
         <mxCell id="p6XBmQJwhoI61cydHGHe-3" value="进入循环" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="357" y="220" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="p6XBmQJwhoI61cydHGHe-5" value="LED0亮" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="337" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="p6XBmQJwhoI61cydHGHe-5" value="LED0亮，LED1灭" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="337" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
