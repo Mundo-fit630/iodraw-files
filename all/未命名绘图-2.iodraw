@@ -67,13 +67,13 @@
             <mxPoint x="543" y="565" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p6XBmQJwhoI61cydHGHe-25" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="p6XBmQJwhoI61cydHGHe-23" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="p6XBmQJwhoI61cydHGHe-25" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="p6XBmQJwhoI61cydHGHe-23" parent="WIyWlLk6GJQsqaUBKTNV-1" target="p6XBmQJwhoI61cydHGHe-26">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="403" y="645" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p6XBmQJwhoI61cydHGHe-26" value="延时" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="135" y="550" width="110" height="50" as="geometry" />
+          <mxGeometry x="348" y="680" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
