@@ -99,7 +99,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p6XBmQJwhoI61cydHGHe-96" value="LED1亮" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="424" y="535" width="110" height="50" as="geometry" />
+          <mxGeometry x="419" y="528" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p6XBmQJwhoI61cydHGHe-97" value="LED1亮" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="410" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
