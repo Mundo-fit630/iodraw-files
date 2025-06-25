@@ -65,16 +65,18 @@
         <mxCell id="LoSEEVMQ6fbxcc115pXR-22" value="进入木工密室" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325" y="640" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LoSEEVMQ6fbxcc115pXR-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-24">
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-24" target="LoSEEVMQ6fbxcc115pXR-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="785" />
+              <mxPoint x="381" y="785" />
+              <mxPoint x="381" y="810" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LoSEEVMQ6fbxcc115pXR-24" value="解密通关木工密室" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325" y="720" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LoSEEVMQ6fbxcc115pXR-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-28" target="LoSEEVMQ6fbxcc115pXR-24">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LoSEEVMQ6fbxcc115pXR-28" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="334" y="810" width="80" height="40" as="geometry" />
