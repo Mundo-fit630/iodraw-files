@@ -59,7 +59,7 @@
         <mxCell id="LoSEEVMQ6fbxcc115pXR-20" value="选择在密室中活动的角色皮肤" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325" y="560" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LoSEEVMQ6fbxcc115pXR-22" value="选择在密室中活动的角色皮肤" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-22" value="进入木工密室" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325" y="640" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
