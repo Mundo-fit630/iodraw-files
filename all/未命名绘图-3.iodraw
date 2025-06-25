@@ -65,6 +65,11 @@
         <mxCell id="LoSEEVMQ6fbxcc115pXR-22" value="进入木工密室" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325" y="640" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LoSEEVMQ6fbxcc115pXR-24" value="解密通关木工密室" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325" y="720" width="110" height="50" as="geometry" />
         </mxCell>
