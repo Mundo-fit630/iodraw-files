@@ -193,7 +193,7 @@
         <mxCell id="LoSEEVMQ6fbxcc115pXR-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=open;startFill=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-62" target="LoSEEVMQ6fbxcc115pXR-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LoSEEVMQ6fbxcc115pXR-62" value="在游戏中可随时返回" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-62" value="在游戏中可随时退出游戏和返回前台，已进行的游戏内容会自动保存，下次进入前台可选择重新进行或是继续上次进行的密室通关" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="500" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LoSEEVMQ6fbxcc115pXR-63" value="中断" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
