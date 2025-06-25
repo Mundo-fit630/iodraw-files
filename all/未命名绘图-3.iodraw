@@ -91,9 +91,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoSEEVMQ6fbxcc115pXR-30" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="LoSEEVMQ6fbxcc115pXR-28" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-30" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="LoSEEVMQ6fbxcc115pXR-28" parent="WIyWlLk6GJQsqaUBKTNV-1" target="LoSEEVMQ6fbxcc115pXR-37">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="380" y="900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="880" />
+              <mxPoint x="381" y="880" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LoSEEVMQ6fbxcc115pXR-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-32" target="LoSEEVMQ6fbxcc115pXR-33">
@@ -111,7 +115,7 @@
         <mxCell id="LoSEEVMQ6fbxcc115pXR-35" value="可选择进入已通关密室方式：自由浏览已通关密室/重新游玩已通关密室" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="1040" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LoSEEVMQ6fbxcc115pXR-37" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-37" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325" y="910" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
