@@ -194,7 +194,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LoSEEVMQ6fbxcc115pXR-62" value="在游戏中可随时退出游戏和返回前台，已进行的游戏内容会自动保存，下次进入前台可选择重新进行或是继续上次进行的密室闯关" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="500" width="130" height="130" as="geometry" />
+          <mxGeometry x="60" y="500" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="LoSEEVMQ6fbxcc115pXR-63" value="中断" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="370" width="110" height="50" as="geometry" />
