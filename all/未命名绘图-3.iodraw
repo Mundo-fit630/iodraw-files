@@ -190,8 +190,14 @@
         <mxCell id="LoSEEVMQ6fbxcc115pXR-60" value="选择想要进入的密室及方式：自由浏览/重新闯关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="470" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-62" target="LoSEEVMQ6fbxcc115pXR-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LoSEEVMQ6fbxcc115pXR-62" value="在游戏中可随时返回" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="500" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-63" value="在游戏中可随时返回" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="370" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
