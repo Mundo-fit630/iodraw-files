@@ -53,8 +53,14 @@
         <mxCell id="LoSEEVMQ6fbxcc115pXR-18" value="选择在密室中活动的角色皮肤" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325" y="480" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-20" target="LoSEEVMQ6fbxcc115pXR-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LoSEEVMQ6fbxcc115pXR-20" value="选择在密室中活动的角色皮肤" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325" y="560" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-22" value="选择在密室中活动的角色皮肤" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="640" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
