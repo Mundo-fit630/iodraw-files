@@ -16,7 +16,7 @@
         <mxCell id="LoSEEVMQ6fbxcc115pXR-1" value="进入前台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LoSEEVMQ6fbxcc115pXR-3" value="进入前台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-3" value="选择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
