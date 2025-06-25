@@ -81,12 +81,13 @@
         <mxCell id="LoSEEVMQ6fbxcc115pXR-28" value="进入下一个密室或是返回前台" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="820" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LoSEEVMQ6fbxcc115pXR-29" value="返回前台" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="LoSEEVMQ6fbxcc115pXR-28" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-29" value="返回前台" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="LoSEEVMQ6fbxcc115pXR-28" parent="WIyWlLk6GJQsqaUBKTNV-1" target="LoSEEVMQ6fbxcc115pXR-32">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="520" y="820" as="targetPoint" />
             <Array as="points">
               <mxPoint x="470" y="840" />
               <mxPoint x="470" y="821" />
+              <mxPoint x="545" y="821" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -94,6 +95,9 @@
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="380" y="900" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-32" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="545" y="800" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
