@@ -35,8 +35,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoSEEVMQ6fbxcc115pXR-15" value="继续游戏" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="198" width="70" height="30" as="geometry" />
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-15" value="继续游戏（通关过所有密室的用户）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="198" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LoSEEVMQ6fbxcc115pXR-16" value="进入前台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="280" width="120" height="60" as="geometry" />
