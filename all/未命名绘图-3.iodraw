@@ -20,7 +20,7 @@
         </mxCell>
         <mxCell id="LoSEEVMQ6fbxcc115pXR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="360" as="targetPoint" />
+            <mxPoint x="550" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LoSEEVMQ6fbxcc115pXR-9" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -34,6 +34,9 @@
               <mxPoint x="381" y="270" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-15" value="继续游戏" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="395" y="198" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
