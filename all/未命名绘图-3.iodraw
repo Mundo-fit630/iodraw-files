@@ -115,7 +115,7 @@
         <mxCell id="LoSEEVMQ6fbxcc115pXR-33" value="可进入已通关密室和下一个需通关密室" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="960" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LoSEEVMQ6fbxcc115pXR-35" value="可选择进入已通关密室方式：自由浏览已通关密室/重新游玩已通关密室" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-35" value="可选择进入已通关密室方式：自由浏览已通关密室/重新闯关密室" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="1040" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LoSEEVMQ6fbxcc115pXR-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-37" target="LoSEEVMQ6fbxcc115pXR-38">
