@@ -21,7 +21,7 @@
         <mxCell id="LoSEEVMQ6fbxcc115pXR-9" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LoSEEVMQ6fbxcc115pXR-10" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="LoSEEVMQ6fbxcc115pXR-9" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-10" value="继续游戏" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="LoSEEVMQ6fbxcc115pXR-9" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="520" y="220" as="targetPoint" />
           </mxGeometry>
