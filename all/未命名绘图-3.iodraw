@@ -39,7 +39,10 @@
           <mxGeometry x="414" y="198" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LoSEEVMQ6fbxcc115pXR-16" value="进入前台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-17" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="460" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
