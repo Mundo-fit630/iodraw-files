@@ -157,8 +157,14 @@
         <mxCell id="LoSEEVMQ6fbxcc115pXR-48" value="连接电路图打开宝箱" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325" y="1390" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-50" target="LoSEEVMQ6fbxcc115pXR-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LoSEEVMQ6fbxcc115pXR-50" value="在宝箱中获得未编写嵌入式程序的电机、stm32单片机" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325" y="1470" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-52" value="通过拖拽选项完成编程烧录后开门通关" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="1550" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
