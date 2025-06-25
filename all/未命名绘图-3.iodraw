@@ -23,7 +23,7 @@
             <mxPoint x="550" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoSEEVMQ6fbxcc115pXR-9" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-9" value="选择开始游戏或继续游戏" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LoSEEVMQ6fbxcc115pXR-11" value="开始游戏（一次未通关用户）" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="LoSEEVMQ6fbxcc115pXR-9" parent="WIyWlLk6GJQsqaUBKTNV-1" target="LoSEEVMQ6fbxcc115pXR-1">
