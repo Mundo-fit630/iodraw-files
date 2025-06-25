@@ -9,7 +9,7 @@
             <mxPoint x="380" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoSEEVMQ6fbxcc115pXR-1" value="进入前台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-1" value="进入密室前台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LoSEEVMQ6fbxcc115pXR-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-8" target="LoSEEVMQ6fbxcc115pXR-9">
@@ -41,8 +41,14 @@
         <mxCell id="LoSEEVMQ6fbxcc115pXR-16" value="进入前台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-17" target="LoSEEVMQ6fbxcc115pXR-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LoSEEVMQ6fbxcc115pXR-17" value="与工作人员对话了解密室情况" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325" y="390" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-18" value="与工作人员对话了解密室情况" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="480" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
