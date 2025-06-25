@@ -1,0 +1,205 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="946" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-1" target="LoSEEVMQ6fbxcc115pXR-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-1" value="进入密室前台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-8" target="LoSEEVMQ6fbxcc115pXR-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-8" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-9" target="LoSEEVMQ6fbxcc115pXR-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-9" value="选择开始游戏或继续游戏" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-11" value="开始游戏（一次未通关用户）" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="LoSEEVMQ6fbxcc115pXR-9" parent="WIyWlLk6GJQsqaUBKTNV-1" target="LoSEEVMQ6fbxcc115pXR-1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="380" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="270" />
+              <mxPoint x="381" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-15" value="继续游戏（通关过所有密室的用户）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="198" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-16" target="LoSEEVMQ6fbxcc115pXR-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-16" value="进入前台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-17" target="LoSEEVMQ6fbxcc115pXR-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-17" value="与工作人员对话了解密室情况" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="390" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-18" target="LoSEEVMQ6fbxcc115pXR-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-18" value="选择在密室中活动的角色皮肤" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="480" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-20" target="LoSEEVMQ6fbxcc115pXR-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-20" value="选择在密室中活动的角色皮肤" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="560" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-22" target="LoSEEVMQ6fbxcc115pXR-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-22" value="进入木工密室" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="640" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-24" target="LoSEEVMQ6fbxcc115pXR-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="785" />
+              <mxPoint x="381" y="785" />
+              <mxPoint x="381" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-24" value="解密通关木工密室" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="720" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-28" value="进入下一个密室或是返回前台" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="820" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-29" value="返回前台" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="LoSEEVMQ6fbxcc115pXR-28" parent="WIyWlLk6GJQsqaUBKTNV-1" target="LoSEEVMQ6fbxcc115pXR-32">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="520" y="820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="840" />
+              <mxPoint x="470" y="821" />
+              <mxPoint x="545" y="821" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-30" value="进入下个密室" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="LoSEEVMQ6fbxcc115pXR-28" parent="WIyWlLk6GJQsqaUBKTNV-1" target="LoSEEVMQ6fbxcc115pXR-37">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="380" y="900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="880" />
+              <mxPoint x="381" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-32" target="LoSEEVMQ6fbxcc115pXR-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-32" value="选择查看密室地图" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="880" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-33" target="LoSEEVMQ6fbxcc115pXR-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-33" value="可进入已通关密室和下一个需通关密室" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="960" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-35" value="可选择进入已通关密室方式：自由浏览已通关密室/重新闯关密室" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="1040" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-37" target="LoSEEVMQ6fbxcc115pXR-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-37" value="进入机械密室" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="910" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-38" target="LoSEEVMQ6fbxcc115pXR-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-38" value="解密通关机械密室" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="990" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-40" target="LoSEEVMQ6fbxcc115pXR-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-40" value="进入下个密室或返回" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="1060" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-42" target="LoSEEVMQ6fbxcc115pXR-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-42" value="进入电工密室" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="1150" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-44" target="LoSEEVMQ6fbxcc115pXR-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-44" value="寻找拼图" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="1230" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-46" target="LoSEEVMQ6fbxcc115pXR-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-46" value="完成电路图拼图获得电路图" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="1310" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-48" target="LoSEEVMQ6fbxcc115pXR-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-48" value="连接电路图打开宝箱" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="1390" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-50" target="LoSEEVMQ6fbxcc115pXR-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-50" value="在宝箱中获得未编写嵌入式程序的电机、stm32单片机" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="1470" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-52" target="LoSEEVMQ6fbxcc115pXR-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-52" value="通过拖拽选项完成编程烧录后开门通关" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="1550" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-54" target="LoSEEVMQ6fbxcc115pXR-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-54" value="返回前台" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="1630" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-56" value="同继续游戏" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="1710" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-58" target="LoSEEVMQ6fbxcc115pXR-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-58" value="查看密室地图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-60" value="选择想要进入的密室及方式：自由浏览/重新闯关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=open;startFill=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LoSEEVMQ6fbxcc115pXR-62" target="LoSEEVMQ6fbxcc115pXR-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-62" value="在游戏中可随时退出游戏和返回前台，已进行的游戏内容会自动保存，下次进入前台可选择重新进行或是继续上次进行的密室闯关" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="500" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LoSEEVMQ6fbxcc115pXR-63" value="中断" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="370" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
